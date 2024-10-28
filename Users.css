@@ -1,0 +1,13 @@
+.mycard{
+  border: 3px solid green;
+  display: inline-block;
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+}
+*{
+  margin: 0;
+}
+.mycard h1{
+  color: blue;
+}
+
